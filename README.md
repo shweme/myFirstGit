@@ -20,7 +20,7 @@
 
 ### Weekly Schedule
 Week|Content
-:---:---:
+:---:|:---:
 Week 1|Introduction to Javascript and Nodejs     
 Week 2|Code Version Control with Git and GitHub  
 Week 3|Nodejs as a server                        
