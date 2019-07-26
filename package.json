@@ -1,0 +1,28 @@
+{
+  "name": "project_server",
+  "version": "1.0.0",
+  "description": "This is to write what your server does",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shweme/myFirstGit.git"
+  },
+  "keywords": [
+    "Week3",
+    "routing",
+    "servers"
+  ],
+  "author": "Shweta Mehta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shweme/myFirstGit/issues"
+  },
+  "homepage": "https://github.com/shweme/myFirstGit#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jquery": "^3.4.1"
+  }
+}
